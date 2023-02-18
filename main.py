@@ -76,3 +76,5 @@ while (p):
 
 turtle.done()
 # close the screen after complete
+# made by umang patel
+# give credit if use 
